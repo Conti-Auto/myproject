@@ -5,3 +5,5 @@ Wednesday
 Thursday
 Friday
 Saturday
+Sunday
+Added for b2 branch
