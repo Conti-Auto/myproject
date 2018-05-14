@@ -5,5 +5,6 @@ Wednesday
 Thursday
 Friday
 Saturday
-Sunday
+Sunday added for master
 Added for b2 branch
+Added for master
