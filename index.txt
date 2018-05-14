@@ -5,3 +5,4 @@ second line
 third line of code
  edited
 changes for test
+Changes for merge of branches
